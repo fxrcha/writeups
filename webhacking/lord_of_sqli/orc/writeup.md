@@ -1,6 +1,6 @@
 # Orc
 
-| Lord of SQLI, Blind SQLI
+> Lord of SQLI, Blind SQLI
 
 ## 풀이
 
